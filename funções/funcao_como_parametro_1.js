@@ -11,8 +11,8 @@ function bomDia(){
 executar(3)
 executar(bomDia) // <== parte central da aula
 
-const x = bomDia()
-const y = bomDia
+const x = bomDia();
+const y = bomDia;
 
 console.log(x)
 console.log(y())
